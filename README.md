@@ -2,7 +2,11 @@
 Code for planning algorithm with dubins path and RRT*
 
 This code is made for the project assignement of the course Planning and Decision making 21/22
-The script will compute the shortest route from a starting point to a goal point using dubins path and RRT* 
+The script will compute the shortest route from a starting point to a goal point using dubins path and RRT*
+
+The code is largely based on the work of AtsushiSakai
+References: https://github.com/AtsushiSakai/PythonRobotics 
+
 
 # Running the code
 
